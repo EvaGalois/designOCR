@@ -1,0 +1,23 @@
+Welcome to GaloisVerification Installation
+
+Thank you for choosing to install GaloisVerification - a powerful text OCR recognition and text validation tool that will help you achieve greater efficiency in your text validation work for design and layout information.
+
+GaloisVerification is a versatile application with the following features and capabilities:
+
+- Text OCR Recognition: Quickly and accurately extract text content from images, allowing you to digitize image documents effortlessly.
+
+- Text Validation: Perform text validation and comparisons to ensure the accuracy and consistency of text content.
+
+- Design Assistance: Assist users in text validation work for design and layout information, providing efficient proofreading and verification tools.
+
+- User-Friendly Interface: A clean and intuitive interface that makes it easy to use all the features.
+
+- Customizable Settings: Customize settings according to your requirements to meet the needs of different projects.
+
+Whether you are a professional typesetter, designer, or any professional working with text information, GaloisVerification will be your valuable assistant.
+
+Please follow the installation wizard's steps to proceed with the installation of GaloisVerification and enhance your text validation work efficiency!
+
+If you encounter any issues during installation or usage, please feel free to contact our support team. We are dedicated to providing assistance.
+
+Thank you for choosing GaloisVerification!
